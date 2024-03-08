@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.eventContainer {
+  background-color: #475569;
+  padding: 10px;
+  width: 60vw;
+}
+.eventHeading {
+  font-size: 40px;
+  color: #ffffff;
+}
+.eventList {
+  display: flex;
+  flex-wrap: wrap;
+  /* flex-direction: row; */
+}
+.container {
+  display: flex;
+}
+.status {
+  display: flex;
+  align-items: center;
+  padding: 40px;
+}

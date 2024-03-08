@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.itemContainer {
+  padding: 5px;
+  margin: 5px;
+  font-family: Roboto;
+  list-style-type: none;
+}
+
+.itemImage {
+  height: 200px;
+  width: 330px;
+}
+
+.itemName {
+  font-size: 28.5px;
+  margin-top: 7px;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+
+.itemLocation {
+  font-size: 20px;
+  margin-top: 3px;
+  color: #ffffff;
+}
+.button {
+  outline: none;
+  border-style: none;
+}
